@@ -1,3 +1,3 @@
 # hello-world
 git learning 
-Hi my name is john i am trying to learn coding for the first time.  
+Hi my name is John, I am trying to learn how to code for the first time.
